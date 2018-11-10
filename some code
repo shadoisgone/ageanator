@@ -1,0 +1,16 @@
+n = input ("year of youtube chanel")
+b = input ("year of birth")
+enter = (n)
+enter = int(enter)
+enter2 = (b)
+enter2 = int(b)
+v=enter - enter2#this will give you how old you where when you created the channel'
+v =(v)
+v =int(v)
+cyka = v * 2#this will give you the year of how old your channel doubles your age
+year = enter2 + cyka 
+year =(year)
+year =int(year)
+print("this is the year your youtube channel passes your age:  ",year,".")
+age2 = year - enter2
+print ("this is how old you will be when your youtube channel is double your age:  ",age2, ".")
